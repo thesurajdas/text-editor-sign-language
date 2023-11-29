@@ -8,6 +8,7 @@ We've created a smart text editor using computer vision, specifically with the O
 
  - [Project Report](https://docs.google.com/document/d/1jICY5kmMEkWcHlRjIyZlrAQS7RdpHinJkP0VFscppLc/edit?usp=sharing)
  - [Project Presentation](https://docs.google.com/presentation/d/1ami4SndP4BYByLRKFpSwkawslLgmCHfzCnLUJ3xLSFU/edit?usp=sharing)
+ - [Dataset](https://www.kaggle.com/datasets/thesurajdas/american-sign-language-alphabets/)
 
 ## Deployment
 
